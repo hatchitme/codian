@@ -3,8 +3,8 @@
 }
 
 .main-menu li.has-submenu a::after {
-	margin-right: 5px;
-	margin-left: 0;
+	margin-left: 5px;
+	margin-right: 0;
 }
 
 .main-menu li .sub-menu li {
@@ -33,10 +33,6 @@
 .footer-content-p {
 	 font-size: 16px;
 	 padding-top: 10px;
-}
-
-.features {
-	text-align: right;
 }
 
 .content-hide p, .features-content a {
@@ -75,10 +71,6 @@
 
 #tabs p {
 	font-size: 16px;
-}
-
-.tabs-content {
-	text-align: right;
 }
 
 .tabs-content img {
@@ -137,10 +129,6 @@ section.latesttwo {
 
 section.latestthree {
 	background-image: url(https://cdn.jsdelivr.net/gh/hatchitme/codian/assets/images/hero1.webp);
-}
-
-section.latestone .latestone-title, section.latesttwo .latesttwo-title, section.latestthree .latestthree-title {
-	text-align: right;
 }
 
 section.latestone .latestone-title h2, section.latesttwo .latesttwo-title h2, section.latestthree .latestthree-title h2, section.latestthree .latestthree-title h3 {
@@ -376,7 +364,7 @@ section.single-post-iframe-section {
 }
 
 .features-content span i {
-    margin-left: 10px;
+    margin-right: 10px;
 }
 
 @media screen and (max-width: 1180px) {
