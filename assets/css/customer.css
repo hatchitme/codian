@@ -449,3 +449,7 @@ section.single-post-iframe-section {
 .first-iframe-container-section .first-iframe-list li a, .second-iframe-container-section .second-iframe-list li a {
 	font-size: 20px;
 }
+
+.features-content a {
+    text-transform: initial;
+}
